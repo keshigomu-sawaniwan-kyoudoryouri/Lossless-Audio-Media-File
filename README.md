@@ -150,4 +150,4 @@ Copyright (c) 2025 jinhibi13-pixel
 
 ---
 
-**Made with 🖤 by jinhibi13-pixel**
+**Made by jinhibi13-pixel**
