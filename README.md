@@ -99,7 +99,7 @@ python Converter.py
 
 # EACなどリッピングソフトでリッピング先を D:/LAMFファイル変換 に設定すると、
 # 自動で LAMF変換 → T:/music/CD_LAMF に保存 → 元ファイル削除
-#EACでなくともWAV/FLAC/M4A(ALAC)で保存したファイルであればD:/LAMFファイル変換　より検知し変換が可能です。
+# EACでなくともWAV/FLAC/M4A(ALAC)で保存したファイルであれば D:/LAMFファイル変換　より検知し変換が可能です。
 ```
 
 ## 📁 フォーマット仕様
