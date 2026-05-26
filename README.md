@@ -134,8 +134,7 @@ LAMF-Player/
 ├── register.py         # Windows関連付け
 ├── requirements.txt
 ├── README.md
-└── docs/
-    └── LAMF_SPEC.md
+└── LAMF_SPEC.md
 ```
 
 ---
