@@ -93,7 +93,7 @@ python convert.py input.lamf --to-wav
 
 ```bash
 # 監視開始（D:/LAMFファイル変換 を監視）
-python ripping.py
+python Converter.py
 
 # EACでリッピング先を D:/LAMFファイル変換 に設定すると、
 # 自動で LAMF変換 → T:/music/CD_LAMF に保存 → 元ファイル削除
