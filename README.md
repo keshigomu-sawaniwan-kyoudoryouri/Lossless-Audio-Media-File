@@ -1,10 +1,12 @@
-*LAMF (Lossless Audio Media File)** - 俺様フォーマット専用CLIプレーヤー*
+*LAMF (Lossless Audio Media File)** - フォーマット専用CLIプレーヤー*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 ---
+
+##必ずREADMEをお読みください。自分のPCに合わせすぎてディレクトリのずれが生じてる可能性大です。
 
 ## 🎵 概要
 
@@ -95,18 +97,10 @@ python convert.py input.lamf --to-wav
 # 監視開始（D:/LAMFファイル変換 を監視）
 python Converter.py
 
-# EACでリッピング先を D:/LAMFファイル変換 に設定すると、
+# EACなどリッピングソフトでリッピング先を D:/LAMFファイル変換 に設定すると、
 # 自動で LAMF変換 → T:/music/CD_LAMF に保存 → 元ファイル削除
+#EACでなくともWAV/FLAC/M4A(ALAC)で保存したファイルであればD:/LAMFファイル変換　より検知し変換が可能です。
 ```
-
-### Windows関連付け
-
-```bash
-# 管理者権限で実行
-python register.py
-```
-
----
 
 ## 📁 フォーマット仕様
 
